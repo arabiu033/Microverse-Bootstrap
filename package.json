@@ -1,0 +1,20 @@
+{
+  "name": "microverse-bootstrap",
+  "version": "1.0.0",
+  "description": "Creating a portfoilio using boostrap features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arabiu033/Microverse-Bootstrap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arabiu033/Microverse-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/arabiu033/Microverse-Bootstrap#readme"
+}
